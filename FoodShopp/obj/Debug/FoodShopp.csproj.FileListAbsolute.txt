@@ -1,0 +1,277 @@
+F:\ExASP\FoodShopp\FoodShopp\bin\FoodShopp.dll.config
+F:\ExASP\FoodShopp\FoodShopp\bin\FoodShopp.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\FoodShopp.pdb
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\csc.exe
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\csc.exe.config
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\csc.rsp
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\csi.exe
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\csi.exe.config
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\csi.rsp
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.AppContext.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Collections.Immutable.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Console.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.IO.Compression.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Reflection.Metadata.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Security.AccessControl.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Security.Claims.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.ValueTuple.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\vbc.exe
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\vbc.exe.config
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\vbc.rsp
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe
+F:\ExASP\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe.config
+F:\ExASP\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ExASP\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ExASP\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csproj.CoreCompileInputs.cache
+F:\ExASP\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csproj.CopyComplete
+F:\ExASP\FoodShopp\FoodShopp\obj\Debug\FoodShopp.dll
+F:\ExASP\FoodShopp\FoodShopp\obj\Debug\FoodShopp.pdb
+F:\ExASP\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csprojAssemblyReference.cache
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\FoodShopp.dll.config
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\FoodShopp.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\FoodShopp.pdb
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csc.exe
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csc.exe.config
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csc.rsp
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csi.exe
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csi.exe.config
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csi.rsp
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.AppContext.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Console.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\vbc.exe
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\vbc.exe.config
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\vbc.rsp
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csprojAssemblyReference.cache
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csproj.CopyComplete
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.dll
+C:\Users\Tan PC\Desktop\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.pdb
+D:\FoodShopp\FoodShopp\FoodShopp\bin\FoodShopp.dll.config
+D:\FoodShopp\FoodShopp\FoodShopp\bin\FoodShopp.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\FoodShopp.pdb
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csc.exe
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csc.exe.config
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csc.rsp
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csi.exe
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csi.exe.config
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csi.rsp
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.AppContext.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Collections.Immutable.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Console.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.Compression.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Reflection.Metadata.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.AccessControl.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Claims.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.ValueTuple.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\vbc.exe
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\vbc.exe.config
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\vbc.rsp
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe
+D:\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe.config
+D:\FoodShopp\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FoodShopp\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csprojAssemblyReference.cache
+D:\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csproj.CopyComplete
+D:\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.dll
+D:\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.pdb
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\FoodShopp.dll.config
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\FoodShopp.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\FoodShopp.pdb
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csc.exe
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csc.exe.config
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csc.rsp
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csi.exe
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csi.exe.config
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\csi.rsp
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.AppContext.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Console.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\vbc.exe
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\vbc.exe.config
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\vbc.rsp
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csprojAssemblyReference.cache
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csproj.CopyComplete
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.dll
+C:\Users\Hung\Desktop\kt\FoodShopp\FoodShopp\FoodShopp\obj\Debug\FoodShopp.pdb
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\FoodShopp.dll.config
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\FoodShopp.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\FoodShopp.pdb
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\csc.exe
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\csc.exe.config
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\csc.rsp
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\csi.exe
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\csi.exe.config
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\csi.rsp
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.AppContext.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Collections.Immutable.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Console.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.IO.Compression.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.IO.Pipes.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Reflection.Metadata.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Security.AccessControl.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Security.Claims.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.ValueTuple.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\vbc.exe
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\vbc.exe.config
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\vbc.rsp
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\roslyn\VBCSCompiler.exe.config
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LT_ASPX\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csprojAssemblyReference.cache
+D:\LT_ASPX\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csproj.CoreCompileInputs.cache
+D:\LT_ASPX\FoodShopp\FoodShopp\obj\Debug\FoodShopp.csproj.CopyComplete
+D:\LT_ASPX\FoodShopp\FoodShopp\obj\Debug\FoodShopp.dll
+D:\LT_ASPX\FoodShopp\FoodShopp\obj\Debug\FoodShopp.pdb
